@@ -1,7 +1,9 @@
 🔐 Page de Connexion
 Accédez à votre espace personnel pour ajouter ou gérer vos témoignages. Connectez-vous avec votre email et mot de passe en toute sécurité.
 
-🏠 Page d’Accueil (Hero Section)
+
+🏠 Page d’Accueil (Hero Section)![WhatsApp_Image_2025-04-08_à_19 16 48_c12bd814-removebg-preview](https://github.com/user-attachments/assets/d549a50e-df50-4166-ab5b-c68a9fb15d87)
+
 Bienvenue sur mon portfolio ! Je suis un développeur web passionné par la création de solutions modernes, intuitives et performantes. Explorez mes projets et découvrez mes compétences.
 
 🧑‍💻 À propos de moi
