@@ -1,5 +1,5 @@
 PRESENTATION DU PORTFOLIO
-![Capture d'écran 2025-04-12 072340](https://github.com/user-attachments/assets/061073e5-02f0-40c9-83bc-d1b11e42e7e3)
+![ChatGPT Image 12 avr  2025, 08_11_50](https://github.com/user-attachments/assets/5c163e87-d90f-40dc-b23f-4efef6503c6f)
 
 
 
