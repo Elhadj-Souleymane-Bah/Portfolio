@@ -1,3 +1,34 @@
+🔐 Page de Connexion
+Accédez à votre espace personnel pour ajouter ou gérer vos témoignages. Connectez-vous avec votre email et mot de passe en toute sécurité.
+
+🏠 Page d’Accueil (Hero Section)
+Bienvenue sur mon portfolio ! Je suis un développeur web passionné par la création de solutions modernes, intuitives et performantes. Explorez mes projets et découvrez mes compétences.
+
+🧑‍💻 À propos de moi
+Une présentation de mon profil de développeur web full stack, avec un résumé de mes compétences techniques (JavaScript, React, Node.js, etc.), mes qualités personnelles (autonomie, travail d’équipe) et ma passion pour le développement web.
+
+🛠️ Compétences / Formation / Expérience
+Cette section affiche les différentes technologies que je maîtrise (Node.js, Java, Kotlin, etc.), accompagnées de deux onglets permettant de consulter ma formation et mon parcours professionnel.
+
+💼 Mes Projets
+Une galerie interactive de projets personnels et académiques, avec filtres par type (Web, Mobile, iOS). Chaque projet comprend un visuel et une description concise de ses fonctionnalités.
+
+📝 Page de Témoignages
+Découvrez les retours d’expérience de personnes ayant collaboré avec moi. Ces témoignages reflètent mon engagement, mon professionnalisme et la qualité de mon travail.
+
+📁 Page Projets (d'après ton menu "Mes Projets")
+Parcourez une sélection de mes projets réalisés. Chaque réalisation témoigne de ma capacité à transformer des idées en solutions concrètes, efficaces et esthétiques.
+
+📞 Page Contact
+Vous avez une question ou un projet ? N’hésitez pas à me contacter. Je suis disponible pour discuter, collaborer ou relever de nouveaux défis technologiques.
+
+📬 Contact
+Formulaire permettant aux visiteurs de m’envoyer un message directement depuis le site. Cette section inclut également mes coordonnées (email, téléphone, adresse) et des liens vers mes réseaux sociaux (GitHub, LinkedIn, etc.).
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
